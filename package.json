@@ -1,0 +1,7 @@
+{
+  "name": "cut-flower-promise",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
